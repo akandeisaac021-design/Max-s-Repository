@@ -1,2 +1,2 @@
-# Max-s-Repository
-Beginner's Interface
+# Max-Repository(AkandeIsaac)
+My Beginner Interface
